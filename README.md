@@ -4,7 +4,7 @@ I’m Firat. I’m interested in Data Science, Machine Learning, Mathematics and
 
 You can reach me at fyasar dot fr at gmail dot com
 
-### My Data Engineering / Cloud Projects
+### My Data Engineering & Cloud Projects
 
 1. [AWS Continuous Integration via GitHub Actions](https://github.com/yasarigno/AWS-Continuous-Integration)
 2. [ML model deployed on GCP via Flask](https://github.com/yasarigno/GCP-ML-Model-via-Flask)
