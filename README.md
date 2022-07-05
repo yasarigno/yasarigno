@@ -19,7 +19,7 @@ You can reach me at fyasar dot fr at gmail dot com
 6. [Building a mobile application for Santé Publique France](https://github.com/yasarigno/Mobile_Application_NUTRI-Z_for_Sante_Publique#building-a-mobile-application-for-santé-publique-france)
 7. [Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY](https://github.com/yasarigno/Statistical_Decision_Making_for_ACADEMY)
 
-## My Adventure in Functional Programming
+### My Adventure in Functional Programming
 
 1. [Scala is cool](https://github.com/yasarigno/scala_is_cool)
 
