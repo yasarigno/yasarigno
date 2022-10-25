@@ -23,6 +23,10 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [Scala is cool](https://github.com/yasarigno/scala_is_cool)
 
+### My Course on NLP
+
+1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
+
 ### My GitHub Statistics
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=yasarigno&color=orange)
