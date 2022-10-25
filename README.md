@@ -23,7 +23,7 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [Scala is cool](https://github.com/yasarigno/scala_is_cool)
 
-### My Course on NLP
+### My Courses on Machine Learning
 
 1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
 
