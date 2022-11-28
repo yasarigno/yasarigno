@@ -22,7 +22,7 @@ You can reach me at fyasar dot fr at gmail dot com
 
 ### My Adventure in Functional Programming
 
-1. [Scala is cool](https://github.com/yasarigno/scala_is_cool)
+1. [Scala is cool](https://github.com/yasarigno/scala_is_cool) // Private. Ask for access.
 
 ### My Courses on Machine Learning
 
