@@ -12,13 +12,13 @@ You can reach me at fyasar dot fr at gmail dot com
 
 ### My Data Science Projects
 
-1. [A Big Data project on AWS to assist a very young AgriTech start-up](https://github.com/yasarigno/AWS_Start-up_Project_Fruits)
+1. [A Big Data project on AWS to assist a very young AgriTech start-up](https://github.com/yasarigno/AWS_Start-up_Project_Fruits) // Private. Ask for access.
 2. [Recognition of categories of products from images and textual descriptions](https://github.com/yasarigno/Categorization_via_Deep_Learning_and_NLP)
-3. [Classification of customer profiles of OLIST, an e-commerce site](https://github.com/yasarigno/Clustering_Customer_Profiles_for_e-Marketing) - Private. Ask for access.
+3. [Classification of customer profiles of OLIST, an e-commerce site](https://github.com/yasarigno/Clustering_Customer_Profiles_for_e-Marketing) // Private. Ask for access.
 4. [Reducing the risks of a bank Home Credit](https://github.com/yasarigno/Projet_7) - Private. Ask for access.
-5. [Predictions of energy consumption of the city of Seattle](https://github.com/yasarigno/Predictions_on_Energy_Consumption_in_Seattle) - Private. Ask for access.
-6. [Building a mobile application for Santé Publique France](https://github.com/yasarigno/Mobile_Application_NUTRI-Z_for_Sante_Publique#building-a-mobile-application-for-santé-publique-france) - Private. Ask for access.
-7. [Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY](https://github.com/yasarigno/Statistical_Decision_Making_for_ACADEMY) - Private. Ask for access.
+5. [Predictions of energy consumption of the city of Seattle](https://github.com/yasarigno/Predictions_on_Energy_Consumption_in_Seattle) // Private. Ask for access.
+6. [Building a mobile application for Santé Publique France](https://github.com/yasarigno/Mobile_Application_NUTRI-Z_for_Sante_Publique#building-a-mobile-application-for-santé-publique-france) // Private. Ask for access.
+7. [Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY](https://github.com/yasarigno/Statistical_Decision_Making_for_ACADEMY) // Private. Ask for access.
 
 ### My Adventure in Functional Programming
 
