@@ -9,6 +9,7 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [AWS Continuous Integration via GitHub Actions](https://github.com/yasarigno/AWS-Continuous-Integration)
 2. [ML model deployed on GCP via Flask](https://github.com/yasarigno/GCP-ML-Model-via-Flask)
+3. [Data Engineering via Databricks](https://github.com/yasarigno/Data_Engineering_via_Databricks) // Private. Ask for access.
 
 ### My Data Science Projects
 
