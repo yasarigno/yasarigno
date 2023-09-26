@@ -1,4 +1,4 @@
-### Hello hello 👋☺️
+Hello hello 👋☺️
 
 I’m Firat. I’m interested in Data Science, Machine Learning, Mathematics and everything related to them. I speak French, English and Pythonish. I’m currently learning Scala and Haskell.
 
