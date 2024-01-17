@@ -17,7 +17,7 @@ You can reach me at fyasar dot fr at gmail dot com
 2. [Recognition of categories of products from images and textual descriptions](https://github.com/yasarigno/Categorization_via_Deep_Learning_and_NLP)
 3. [Classification of customer profiles of OLIST, an e-commerce site](https://github.com/yasarigno/Clustering_Customer_Profiles_for_e-Marketing) // Private. Ask for access.
 4. [Reducing the risks of a bank Home Credit](https://github.com/yasarigno/Projet_7) // Private. Ask for access.
-5. [Predictions of energy consumption of the city of Seattle](https://github.com/yasarigno/Predictions_on_Energy_Consumption_in_Seattle) // Private. Ask for access.
+5. [Predictions of energy consumption of the city of Seattle](https://github.com/yasarigno/Predictions_on_Energy_Consumption_in_Seattle)
 6. [Building a mobile application for Santé Publique France](https://github.com/yasarigno/Mobile_Application_NUTRI-Z_for_Sante_Publique#building-a-mobile-application-for-santé-publique-france) // Private. Ask for access.
 7. [Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY](https://github.com/yasarigno/Statistical_Decision_Making_for_ACADEMY) // Private. Ask for access.
 
@@ -29,6 +29,7 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
 2. [Introduction to Data Engineering](https://github.com/yasarigno/intro_to_data_engineering_at_gsu)
+3. [Software Design for Python](https://github.com/yasarigno/software-design-for-python) // In progress.
 
 ### My GitHub Statistics
 
