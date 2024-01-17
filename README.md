@@ -25,7 +25,9 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [Scala is cool](https://github.com/yasarigno/scala_is_cool) // Private. Ask for access.
 
-### My Courses on Machine Learning & Data
+### My Courses on Python, Data, Machine Learning & Cloud
+
+These are the courses that I give on different subjects. 
 
 1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
 2. [Introduction to Data Engineering](https://github.com/yasarigno/intro_to_data_engineering_at_gsu)
