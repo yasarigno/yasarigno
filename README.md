@@ -10,6 +10,17 @@ You can reach me at fyasar dot fr at gmail dot com
 
 1. [Software Design for Python](https://github.com/yasarigno/software-design-for-python) // In progress.
 
+### My Adventure in Functional Programming
+
+1. [Scala is cool](https://github.com/yasarigno/scala_is_cool) // Private. Ask for access.
+
+### My Courses on Python, Data, Machine Learning & Cloud
+
+These are the courses that I give on different subjects. 
+
+1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
+2. [Introduction to Data Engineering](https://github.com/yasarigno/intro_to_data_engineering_at_gsu)
+3. [Software Design for Python](https://github.com/yasarigno/software-design-for-python) // In progress.
 
 ### My Data Engineering & Cloud Projects
 
@@ -27,17 +38,7 @@ You can reach me at fyasar dot fr at gmail dot com
 6. [Building a mobile application for Santé Publique France](https://github.com/yasarigno/Mobile_Application_NUTRI-Z_for_Sante_Publique#building-a-mobile-application-for-santé-publique-france) // Private. Ask for access.
 7. [Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY](https://github.com/yasarigno/Statistical_Decision_Making_for_ACADEMY) // Private. Ask for access.
 
-### My Adventure in Functional Programming
 
-1. [Scala is cool](https://github.com/yasarigno/scala_is_cool) // Private. Ask for access.
-
-### My Courses on Python, Data, Machine Learning & Cloud
-
-These are the courses that I give on different subjects. 
-
-1. [Natural Language Processing via Deep Learning](https://github.com/yasarigno/NLP_DeepLearning_Course)
-2. [Introduction to Data Engineering](https://github.com/yasarigno/intro_to_data_engineering_at_gsu)
-3. [Software Design for Python](https://github.com/yasarigno/software-design-for-python) // In progress.
 
 ### My GitHub Statistics
 
