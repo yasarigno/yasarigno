@@ -1,10 +1,11 @@
 Hello hello 👋☺️
 
-I’m Firat. I'm a Cloud Architect and Backend Developer at SFEIR, an IT company in France. I design and deploy cutting-edge cloud solutions for MLOps and Data Engineering projects via Terraform, mainly on GCP and AWS. My work involves creating robust web applications, intuitive dashboards, and efficient backend pipelines, enabling seamless data processing and driving actionable insights using Python and SQL
-
-I’m interested in Software Engineering (Python), Machine Learning, Mathematics and everything related to them. I speak French, English and Pythonish. I’m currently learning Scala and Haskell.
-
-You can reach me at fyasar dot fr at gmail dot com
+- I’m Firat. 
+- I'm a Cloud Architect and Backend Developer at SFEIR, an IT company in France.
+- I design and deploy cutting-edge cloud solutions written in Python via Terraform, mainly on GCP and AWS.
+- My work involves creating robust web applications, intuitive dashboards, and efficient backend pipelines, enabling seamless data processing and driving actionable insights using Python and SQL.
+- I’m interested in Software Engineering (Python), Machine Learning, Mathematics and everything related to them. I speak French, English and Pythonish. I’m currently learning Scala and Haskell.
+- You can reach me at fyasar dot fr at gmail dot com
 
 ### My Backend projects
 
